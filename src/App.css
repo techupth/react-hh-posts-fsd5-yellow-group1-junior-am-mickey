@@ -77,3 +77,7 @@ button {
   outline: none;
   border: 5px solid var(--secondary-color);
 }
+.post-social-media-stats{
+  display: flex;
+  gap: 9px;
+}
